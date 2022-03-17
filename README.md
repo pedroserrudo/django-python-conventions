@@ -1,4 +1,4 @@
-# Python
+# Python & Django Conventions
 
 These are a series of conventions (to follow) and anti-patterns (to avoid) for
 writing Python and Django application code. They are intended to be an aid to
